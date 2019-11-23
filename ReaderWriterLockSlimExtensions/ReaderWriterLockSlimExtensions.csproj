@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <RootNamespace>System.Threading</RootNamespace>
+    <AssemblyName>ReaderWriterLockSlim.Extensions</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/StewartScottRogers/ReaderWriterLockSlimExtensions</PackageProjectUrl>
+    <Authors>https://www.linkedin.com/in/stewartscottrogers/</Authors>
+    <Company>S Rogers Consulting, LLChttps:</Company>
+    <Description>Makes ReaderWriterLockSlim easy using only one simple extentions class.</Description>
+    <RepositoryUrl>https://github.com/StewartScottRogers/ReaderWriterLockSlimExtensions</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+
+</Project>
