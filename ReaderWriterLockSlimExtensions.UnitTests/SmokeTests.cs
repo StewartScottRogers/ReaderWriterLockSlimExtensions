@@ -4,7 +4,7 @@ using System.Threading;
 namespace ReaderWriterLockSlimExtensions.UnitTests {
 
     [TestClass]
-    public class SmokeTest {
+    public class SmokeTests {
 
         private static readonly ReaderWriterLockSlim ReaderWriterLockSlim = new ReaderWriterLockSlim();
 
