@@ -12,6 +12,12 @@
     <RepositoryUrl>https://github.com/StewartScottRogers/ReaderWriterLockSlimExtensions</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <SignAssembly>true</SignAssembly>
+    <Copyright>None</Copyright>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <Version>1.0.1</Version>
+    <PackageTags>ReaderWriterLockSlim, lock, Semaphore C#</PackageTags>
+    <PackageReleaseNotes>Simple class used in many projects.</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
